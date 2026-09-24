@@ -1,0 +1,48 @@
+{
+  "name": "PastelPaper",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "@vercel/analytics": "^1.5.0",
+    "html-to-image": "^1.11.13",
+    "lucide-react": "^0.554.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-easy-crop": "^6.0.2",
+    "react-icons": "^5.5.0",
+    "tailwindcss": "^4.1.17",
+    "zustand": "^5.0.14"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@types/react": "^19.2.5",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0",
+    "vite": "^7.2.4"
+  },
+  "description": "A browser-based photo card editor. Upload a photo, crop it, apply retro film filters and effects, add stickers and text, pick a frame/template, and export the result as a PNG or JPG — all client-side, no backend required.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyansh2811/PastelPaper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyansh2811/PastelPaper/issues"
+  },
+  "homepage": "https://github.com/Priyansh2811/PastelPaper#readme"
+}
